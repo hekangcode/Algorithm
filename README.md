@@ -3,21 +3,21 @@
 
 一：算法题
 
-1、已知整数n，用java实现函数f(n)，输出从1到n的字符串，以空格为分隔符。
+1、已知整数n，用java实现函数f(n)，输出从1到n的字符串，以空格为分隔符。（见源码Test01.java）
 
-2、输出一个字符串中连续出现次数最多的子字符串。输出一个字符串中连续出现次数最多的字符。
+2、输出一个字符串中连续出现次数最多的子字符串。输出一个字符串中连续出现次数最多的字符。（见源码Test02.java）
 
-3、10万个用户，随机选出2017个幸运用户。
+3、10万个用户，随机选出2017个幸运用户。（见源码Test03.java）
 
-4、单链表删除倒数第N个节点。
+4、单链表删除倒数第N个节点。（见源码Test04.java）
 
    示意图
 
  ![](https://github.com/hekangcode/Algorithm/blob/master/app/src/main/res/drawable/test04.png)
 
-5、有一个 int[] numbers 数组，指定一个数target，在这个数组中找出两个下标（N1 > 0,N2 > N1）,使得 numbers[N1] + numbers[N2] == target.
+5、有一个 int[] numbers 数组，指定一个数target，在这个数组中找出两个下标（N1 > 0,N2 > N1）,使得 numbers[N1] + numbers[N2] == target.（见源码Test05.java）
 
-6、在上一题基础上，如果numbers里是个升序，用什么方法（用二分查找），二分查找的时间复杂度是多少
+6、在上一题基础上，如果numbers里是个升序，用什么方法（用二分查找），二分查找的时间复杂度是多少（见源码Test05.java）
 
 7、用数组实现在一个队列，大小固定，时间复杂度为n,我写的是有length的情况，然后他让在不使用length的情况下，实现。
 
